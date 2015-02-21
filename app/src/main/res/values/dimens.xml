@@ -19,4 +19,9 @@
     <dimen name="topic_middle_text_size">12sp</dimen>
     <dimen name="topic_large_text_size">14sp</dimen>
 
+    <!--person fragment-->
+    <dimen name="keyline_1">16dp</dimen>
+
+
+
 </resources>
