@@ -26,4 +26,7 @@
     <item name="color_topic_location" type="color">@color/gray</item>
     <item name="color_topic_location_distance" type="color">@color/light_gray</item>
 
+    <!--person -->
+    <color name="line_color">#DDDDDD</color>
+
 </resources>
