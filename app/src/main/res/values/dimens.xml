@@ -22,8 +22,10 @@
     <!--person fragment-->
     <dimen name="keyline_1">16dp</dimen>
     <dimen name="keyline_2">8dp</dimen>
+    <dimen name="keyline_3">4dp</dimen>
     <dimen name="line_width">0.6dp</dimen>
     <dimen name="person_text_size">18sp</dimen>
-
+    <dimen name="person_head_text_size">15sp</dimen>
+    <dimen name="person_fragment_profile_image_size">70dp</dimen>
 
 </resources>

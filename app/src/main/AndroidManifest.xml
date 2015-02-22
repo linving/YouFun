@@ -4,12 +4,14 @@
         android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme"
         android:name=".config.YouFunApplication">
 
-        <activity android:name=".config.MyActivity">
+        <activity android:name=".Activity.HostActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-    </application>
 
+        <activity android:name=".Activity.MyActivity">
+        </activity>
+    </application>
 </manifest>
